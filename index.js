@@ -25,7 +25,7 @@ const dialogData = {
       <li>HTML, CSS, JavaScript</li>
       <li>Java (Basics), Python (Basics)</li>
       <li>Angular and Spring Boot</li>
-      <li>Experience with Spring and React</li>
+      <li>Experience with Spring, Selenium, Angular and React</li>
     </ul>
   `,
   "projects": `
@@ -37,7 +37,7 @@ const dialogData = {
       <li>Portfolio Website</li>
       <li>Rock-Paper-Scissors and Dice Game</li>
       <li>Noti-Fy: Note-Taking App</li>
-      <li>Electric Vehicle Website (React)</li>
+      <li>Electric Vehicle site</li>
       <li>AI Email SaaS App</li>
     </ul>
   `,
@@ -46,7 +46,7 @@ const dialogData = {
     <p>Feel free to reach out!</p>
     <a href="mailto:mthanmayee74@gmail.com">mthanmayee74@gmail.com</a>
     <br />
-    <a href="https://www.linkedin.com/in/m-thanmayee" target="_blank">
+    <a href="https://www.linkedin.com/in/m-thanmayee-a3b536245" target="_blank">
       <img src="./assets/linkedIn.svg" alt="LinkedIn Icon" class="icon" /> LinkedIn</a>
   `
 };
