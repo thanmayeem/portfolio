@@ -22,8 +22,8 @@ const dialogData = {
   "tech-stack": `
     <h2>Tech Stack</h2>
     <ul>
-      <li>HTML, CSS, JavaScript</li>
-      <li>Java (Basics), Python (Basics)</li>
+      <li>HTML, CSS, JavaScript, Bootstrap</li>
+      <li>Java, Python (Basics)</li>
       <li>Angular and Spring Boot</li>
       <li>Experience with Spring, Selenium, Angular and React</li>
     </ul>
